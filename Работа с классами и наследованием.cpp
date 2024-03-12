@@ -1,4 +1,3 @@
-
 class Car {
 public:
 	double speed;
